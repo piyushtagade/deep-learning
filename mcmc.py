@@ -90,4 +90,4 @@ class MarkovChainMonteCarlo:
              samples.append(q) 
          return np.array(samples) 
 
-             # Potential energy     
+              
